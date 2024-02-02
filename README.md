@@ -30,6 +30,7 @@ GA Inventoris System adalah sebuah aplikasi manajemen inventaris yang dikembangk
 4. **Impor Database**: Impor skema database yang telah disediakan pada file `db_ujicoba`.
 
 5. **Akses Aplikasi**: Buka aplikasi melalui browser dan login menggunakan akun yang telah dibuat.
+   
 email : admin@gmail.com
 password : 123
 --- 
