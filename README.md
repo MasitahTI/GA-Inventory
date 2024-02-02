@@ -22,7 +22,7 @@ GA Inventoris System adalah sebuah aplikasi manajemen inventaris yang dikembangk
 2. **Unduh Repositori**: Clone repositori ini ke dalam server lokal Anda.
 
    ```bash
-   [git clone https://github.com/namarepo](https://github.com/MasitahTI/GA-Inventory.git)
+   [git clone https://github.com/MasitahTI/GA-Inventory.git]
    ```
 
 3. **Konfigurasi Database**: Buat database baru dan sesuaikan pengaturan koneksi database di file `config.php`.
@@ -34,4 +34,4 @@ email : admin@gmail.com
 password : 123
 --- 
 
-Selamat menggunakan GA Inventoris System! Semoga aplikasi ini membantu dalam mengelola dan melacak inventaris dengan lebih efisien. Jangan ragu untuk memberikan umpan balik atau melaporkan masalah melalui halaman [Issues](https://github.com/namarepo/issues). Terima kasih!
+Selamat menggunakan GA Inventoris System! Semoga aplikasi ini membantu dalam mengelola dan melacak inventaris dengan lebih efisien. Jangan ragu untuk memberikan umpan balik atau melaporkan masalah melalui halaman [Issues](https://github.com/MasitahTI/issues). Terima kasih!
