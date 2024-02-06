@@ -38,3 +38,4 @@ password : 123
 --- 
 
 Selamat menggunakan GA Inventoris System! Semoga aplikasi ini membantu dalam mengelola dan melacak inventaris dengan lebih efisien. Jangan ragu untuk memberikan umpan balik atau melaporkan masalah melalui halaman [Issues](https://github.com/MasitahTI/issues). Terima kasih!
+![Screenshot (107)](https://github.com/MasitahTI/GA-Inventory/assets/158447847/9dbcef3a-3576-4f74-b39c-2ca765a2be71)
